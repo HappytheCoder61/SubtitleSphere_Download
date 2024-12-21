@@ -1,7 +1,3 @@
-Got it! If you just want to make an announcement about your software release on GitHub without directing users to interact with the repository itself, here’s how you can structure the announcement post within the **GitHub Releases** section:
-
----
-
 ### **Release Title: Subtitle Sphere – Free Tool for Transcription, Translation, AI Narration, and Subtitling**
 
 **Release Notes:**
@@ -40,7 +36,3 @@ Got it! If you just want to make an announcement about your software release on 
 We’d love to hear your thoughts! If you have any feedback or feature requests, please reach out via our website's contact form. Your input helps make Subtitle Sphere even better.
 
 ---
-
-This is a simple and clear release note that announces your software, emphasizes the website as the download location, and provides a direct call to action for users. It avoids directing users to the repository itself and keeps them focused on your official website.
-
-Make sure to fill in the placeholder link (`#`) with your actual download page link from your website!
