@@ -15,7 +15,7 @@
 ---
 
 ### **Download Subtitle Sphere:**
-👉 [[Download Subtitle Sphere from our official website](https://www.subtitlesphere.com)](#) – 100% FREE, no account required!
+👉 [[Download Subtitle Sphere from our official website](https://www.subtitlesphere.com)] – 100% FREE, no account required!
 
 ---
 
